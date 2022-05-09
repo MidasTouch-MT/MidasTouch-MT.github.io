@@ -2,10 +2,32 @@
 layout: null
 sitemap: false
 ---
-User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
-Disallow: /search/
 
+# allow search engines
+User-agent: Googlebot
+Disallow:
+
+User-agent: Bingbot
+Disallow:
+
+User-agent: DuckDuckBot
+Disallow:
+
+User-agent: Baiduspider
+Disallow:
+
+User-agent: Yandexbot
+Disallow:
+
+# yahoo crawler
+User-agent: Slurp
+Disallow:
+
+# disallow all other user agents
+User-agent: *
+Disallow: /
+
+# block archive(dot)org robot
 User-agent: ia_archiver
 Disallow: /
 
