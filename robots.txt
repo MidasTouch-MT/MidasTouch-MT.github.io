@@ -19,8 +19,8 @@ Allow: /
 User-agent: Yandexbot
 Allow: /
 
-# yahoo crawler
-User-agent: Slurp
+
+User-agent: Slurp # yahoo crawler
 Allow: /
 
 # block archive(dot)org robot
