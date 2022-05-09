@@ -5,3 +5,6 @@ sitemap: false
 User-agent: *
 Sitemap: {{ site.url }}/sitemap.xml
 Disallow: /search/
+
+User-agent: archive.org_bot
+Disallow: /
