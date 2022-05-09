@@ -22,7 +22,6 @@ Allow: /
 User-agent: Slurp # yahoo crawler
 Allow: /
 
-
 # block archive(dot)org robot
 User-agent: ia_archiver
 Disallow: /
@@ -32,7 +31,6 @@ Disallow: /
 
 User-agent: ia_archiver-web.archive.org
 Disallow: /
-
 
 # disallow all other user agents
 User-agent: *
