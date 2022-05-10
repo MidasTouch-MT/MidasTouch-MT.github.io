@@ -1,23 +1,21 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: Documentation
+url: "https://MidasTouch-MT.github.io"
 baseurl:
-google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+description: Open-source documentation website hosted on GitHub Pages.
+author: Midas' Touch
+  name: Midas' Touch
+  email: midastouch@duck.com
 social:
-  name: Edition Template
+  name: Documentation
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - https://github.com/MidasTouch-MT/MidasTouch-MT.github.io
 
 # -----
 # Build
