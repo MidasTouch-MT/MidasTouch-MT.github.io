@@ -4,7 +4,7 @@ sitemap: false
 ---
 
 # allow search engines
-User-agent: Googlebot
+User-agent: Baiduspider
 Allow: /
 
 User-agent: Bingbot
@@ -13,20 +13,20 @@ Allow: /
 User-agent: DuckDuckBot
 Allow: /
 
-User-agent: Baiduspider
-Allow: /
-
-User-agent: Yandexbot
+User-agent: Googlebot
 Allow: /
 
 User-agent: Slurp # yahoo crawler
 Allow: /
 
+User-agent: Yandexbot
+Allow: /
+
 # block archive(dot)org robot
-User-agent: ia_archiver
+User-agent: archive.org_bot
 Disallow: /
 
-User-agent: archive.org_bot
+User-agent: ia_archiver
 Disallow: /
 
 User-agent: ia_archiver-web.archive.org
