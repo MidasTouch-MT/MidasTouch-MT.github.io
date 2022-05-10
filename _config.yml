@@ -10,7 +10,7 @@ show_full_navigation: true
 logo: /siteicon.png
 description: Open-source documentation website hosted on GitHub Pages.
 author: Midas(s) Touch
-  name: MidasTouch-MT
+  name:
   email: midastouch@duck.com
 social:
   name: Documentation
@@ -20,7 +20,7 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: EST/UTC
 
 permalink: pretty
 
