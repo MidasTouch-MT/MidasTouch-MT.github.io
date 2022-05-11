@@ -1,5 +1,5 @@
 ---
-title: Welcome To GitDoc
+title: Welcome
 ---
 
 `MidasTouch-MT.github.io` is an open-source documentation website hosted on GitHub Pages. It's distributed under the MIT license in `/License.txt`. We pride ourrselves for a FOSS intiative by only using open-sourced libraries or code.
