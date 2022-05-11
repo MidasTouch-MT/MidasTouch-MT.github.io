@@ -44,5 +44,6 @@ Markdown is used opposed to alternatives such as Asciidoc or HTML and CSS for be
 GitDoc does not use any analytics, and pledges to protect your privacy. The default remote Google fonts were removed and now rely on the system/browser rendering. Our website without JavaScript as the search bar requires this object. However, the search bar functions locally, and the code is open-sourced on [GitHub](https://github.com/midastouch-mt/midastouch-mt.github.io).
 
 ## Credits
+* GitDoc is published under the MIT License in `License.txt`, the `README.MD` is published under a different copyright, but still under the MIT License
 * GitDoc uses the [CloudCannon/edition-jekyll-template](https://github.com/CloudCannon/edition-jekyll-template) which is distributed under the MIT License in  `LICENSE.txt`
 * GitDoc also uses the [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) which is distributed under the MIT License in `LICENSE.txt` 
