@@ -1,7 +1,7 @@
 ---
 title: Client
 category: Wyvern
-order: 1
+order: 3
 ---
 
 # Client
