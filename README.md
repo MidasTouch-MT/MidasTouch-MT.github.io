@@ -20,7 +20,7 @@
 <h3 align="center">Midas Touch - GitDoc</h3>
 
   <p align="center">
-    Midas Touch - GitDoc is an open-source documentation website hosted on GitHub Pages or potentially [gitdoc.org](https://www.gitdoc.org). 
+    Midas Touch - GitDoc is an open-source documentation website hosted on GitHub Pages or potentially [gitdoc.org](https://midastouch-mt.github.io). 
     It's distributed under the MIT license in `/License.txt`. 
     We pride ourrselves for a FOSS intiative by only using open-sourced libraries or code.
     <br />
