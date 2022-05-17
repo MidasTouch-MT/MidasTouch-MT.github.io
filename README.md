@@ -82,7 +82,7 @@
 * [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag)
 * [Jekyll Sitemap](https://github.com/jekyll/jekyll-sitemap)
 * [Jekyll Watch](https://github.com/jekyll/jekyll-watch)
-* [Jekyll Sass Converter](https://github.com/jekyll/jekyll-sass-converter)
+* [Jekyll SASS Converter](https://github.com/jekyll/jekyll-sass-converter)
 * [SASS](https://sass-lang.com/)
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
@@ -100,11 +100,14 @@ Linux, Windows, or macOS are the preferred operating systems for these instructi
 The software required to install the respository are: 
 A terminal, Ruby, and Jekyll. You may also optionally install the SASS compiler if CSS is preferred.
 
+<br>
+
 * Terminal install for Linux, Windows, or macOS:
 ~~~https
 https://git-scm.com/downloads
 ~~~
 
+:<br>
 
 * Ruby installation for Linux, Windows, or macOS
 
@@ -117,6 +120,7 @@ If there are none follow these instructions:
 https://www.ruby-lang.org/en/documentation/installation
 ~~~
 
+<br>
 
 Jekyll installation for Linux, Windows, or macOS
 (Ruby, Gems, GCC, and MAKE are required)
@@ -126,6 +130,7 @@ Install Jekyll via Bundler Gems with Linux, Windows or macOS
 gem install jekyll bundler
 ~~~
 
+<br>
 
 * SASS installation for Linux, Windows, or macOS
 
@@ -134,7 +139,7 @@ Node.js installation for SASS on any operating system
 npm install npm@latest -g
 ~~~
 
-Choclatey installation for SASS with Windows
+Chocolatey installation for SASS with Windows
 ~~~sh
 choco install sass
 ~~~
