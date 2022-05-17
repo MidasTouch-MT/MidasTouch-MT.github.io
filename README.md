@@ -107,7 +107,7 @@ A terminal, Ruby, and Jekyll. You may also optionally install the SASS compiler 
 https://git-scm.com/downloads
 ~~~
 
-:<br>
+<br>
 
 * Ruby installation for Linux, Windows, or macOS
 
@@ -274,8 +274,8 @@ Project Link: [https://github.com/MidasTouch-MT/MidasTouch-MT.github.io](https:/
 ## Acknowledgments
 
 * [Othneil Drew for the Best README Template](https://github.com/othneildrew/Best-README-Template)
-* [CloudCannon for Edition Jekyll Template](https://github.com/CloudCannon/edition-jekyll-template)
-* [Shields.io for README.md headers](https://shields.io)
+* [CloudCannon for the Edition Jekyll Template](https://github.com/CloudCannon/edition-jekyll-template)
+* [Shields.io for the README.md headers](https://shields.io)
 * [MidasTouch-MT for curating this project with ❤️](https://github.com/MidasTouch-MT)
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
