@@ -1,5 +1,7 @@
 <div id="top"></div>
 
+<div align="center">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -175,8 +177,8 @@ $ bundle exec jekyll serve
 ~~~
 
 5. Midas Touch - GitDoc is already optimised for adding, updating and removing documentation pages in CloudCannon.
+Add, update or remove a documentation page in the *Documentation* collection.
 
- Add, update or remove a documentation page in the *Documentation* collection.
 * Change the category of a documentation page to move it to another section in the navigation.
 * Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
 
