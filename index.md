@@ -2,15 +2,15 @@
 title: Welcome
 ---
 
-GitDoc is an open-source documentation website hosted on GitHub Pages. It's distributed under the MIT license in `/License.txt`. We pride ourrselves for a FOSS intiative by only using open-sourced libraries or code.
+MidasTouch - GitDoc is an open-source documentation website hosted on GitHub Pages and potentially GitDoc. It's distributed under the MIT license in `/License.txt`. We pride ourrselves for a FOSS intiative by only using open-sourced libraries or code.
 
 ## Documentation
-Our documentation is available at [midastouch-mt.github.io](https://midas-touch.github.io). The latest changes are documented in the [Commit History](https://github.com/MidasTouch-MT/MidasTouch-MT.github.io/commit), and the [Changelog](https://midastouch-mt.github.io/changelog) documents the major/minor release tags.
+Our documentation is available at [midastouch-mt.github.io](https://midas-touch.github.io) or potentially [gitdoc.org](https://www.gitdoc.org). The latest changes are documented in the [Commit History](https://github.com/MidasTouch-MT/MidasTouch-MT.github.io/commit), and the [Changelog](https://midastouch-mt.github.io/changelog) documents the major/minor release tags.
 
 ### Formats
 Formats the documentation is currently available in: <br>
 
-* `midastouch-mt.github.io` [accessible by modern web browsers](https://midastouch-mt.github.io)
+* `midastouch-mt.github.io` [accessible by modern web browsers](https://midastouch-mt.github.io) or potentially [gitdoc.org](https://www.gitdoc.org)
 * `.scss` Sass CSS in `/sass` (not `_sass`)
 * `.md` in markdown format located in main or `/md`
 * `.adoc` in the main branch folder `/asciidoc`
@@ -41,9 +41,9 @@ Languages the documentation is currently available in: <br>
 Markdown is used opposed to alternatives such as Asciidoc or HTML and CSS for better readability and editting. Asciidoc _can_ be compiled to Markdown via Asciidoctor, however the styling accuracy is arguable. The readability may be better for the language, but the editting is painful. HTML and CSS face the same difficulties as Asciidoc.
 
 ## Privacy
-GitDoc does not use any analytics, and pledges to protect your privacy. The default remote Google fonts were removed and now rely on the system/browser rendering. Our website without JavaScript as the search bar requires this object. However, the search bar functions locally, and the code is open-sourced on [GitHub](https://github.com/midastouch-mt/midastouch-mt.github.io).
+Midas Touch - GitDoc does not use any analytics, and pledges to protect your privacy. The default remote Google fonts were removed and now rely on the system/browser rendering. Our website without JavaScript as the search bar requires this object. However, the search bar functions locally, and the code is open-sourced on [GitHub](https://github.com/midastouch-mt/midastouch-mt.github.io).
 
 ## Credits
-* GitDoc is published under the MIT License in `License.txt`, the `README.MD` is published under a different copyright, but still under the MIT License
-* GitDoc uses the [CloudCannon/edition-jekyll-template](https://github.com/CloudCannon/edition-jekyll-template) which is distributed under the MIT License in  `LICENSE.txt`
-* GitDoc also uses the [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) which is distributed under the MIT License in `LICENSE.txt` 
+* Midas Touch - GitDoc is published under the MIT License in `License.txt`, the `README.MD` is published under a different copyright, but still under the MIT License
+* Midas Touch - GitDoc uses the [CloudCannon/edition-jekyll-template](https://github.com/CloudCannon/edition-jekyll-template) which is distributed under the MIT License in  `LICENSE.txt`
+* Midas Touch - GitDoc also uses the [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) which is distributed under the MIT License in `LICENSE.txt` 
