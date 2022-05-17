@@ -1,7 +1,5 @@
 ---
 title: Cloud
-category: Wyvern
+category: Wyvern Gaming
 order: 4
 ---
-
-# Cloud
