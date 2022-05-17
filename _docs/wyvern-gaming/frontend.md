@@ -1,5 +1,5 @@
 ---
 title: Wyvern Frontend
 category: Wyvern Gaming
-order: 7
+order: 6
 ---
