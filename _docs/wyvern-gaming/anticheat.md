@@ -1,6 +1,6 @@
 ---
 title: Anti-cheat
-category: Wyvern
+category: Wyvern Gaming
 order: 1
 ---
 
