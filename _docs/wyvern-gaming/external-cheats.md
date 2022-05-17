@@ -1,5 +1,5 @@
 ---
 title: External Cheat Devices
-category: External Cheats
+category: Wyvern Gaming
 order: 6
 ---
