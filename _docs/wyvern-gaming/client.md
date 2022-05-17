@@ -1,6 +1,6 @@
 ---
 title: Client
-category: Wyvern
+category: Wyvern Gaming
 order: 3
 ---
 
