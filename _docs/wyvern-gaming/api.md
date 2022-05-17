@@ -1,6 +1,6 @@
 ---
 title: API
-category: Wyvern
+category: Wyvern Gaming
 order: 2
 ---
 
