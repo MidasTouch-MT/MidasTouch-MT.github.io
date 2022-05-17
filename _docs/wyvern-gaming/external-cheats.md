@@ -1,5 +1,5 @@
 ---
 title: External Cheat Devices
 category: External Cheats
-order: 1
+order: 6
 ---

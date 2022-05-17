@@ -1,5 +1,5 @@
 ---
-title: Moderation
+title: Wyvern Moderation
 category: Wyvern Gaming
-order: 7
+order: 8
 ---

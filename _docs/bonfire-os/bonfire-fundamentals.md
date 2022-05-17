@@ -1,5 +1,5 @@
 ---
 title: Bonfire OS Fundamentals
 category: Bonfire OS
-order: 1
+order: 2
 ---
