@@ -1,6 +1,6 @@
 ---
 title: Core
-category: Operating Systems
+category: Bonfire OS
 order: 1
 ---
 
