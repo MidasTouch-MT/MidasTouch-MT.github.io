@@ -1,5 +1,5 @@
 ---
-title: Bonfire OS
+title: Core
 category: Operating Systems
 order: 1
 ---
