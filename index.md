@@ -31,9 +31,9 @@ Languages the documentation is currently available in: <br>
 
 * American English available in `/a-english`
 * British English available in `/b-english`
-* Spanish (Espanol) available in `/espanol`
+* Spanish (Español) available in `/espanol`
 * German (Deutsch) available in `/deutsch`
-* French (Fran0xC3 0xA7ais) available in `/francais`
+* French (Français) available in `/francais`
 * Italian (Italiano) available in `/italiano`
 * Mandarin (Simplified Chinese) (普通话) available in `/mandarin`
 
