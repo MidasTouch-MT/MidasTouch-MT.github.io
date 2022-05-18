@@ -11,12 +11,11 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
   <a href="https://github.com/MidasTouch-MT/MidasTouch-MT.github.io">
     <img src="/siteicon.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Midas Touch - GitDoc</h3>
+<h3>Midas Touch - GitDoc</h3>
 
   Midas Touch - GitDoc is an open-source documentation website hosted on GitHub Pages or potentially [gitdoc.org](https://www.gitdoc.org). 
     It's distributed under the MIT license in `/License.txt`. 
