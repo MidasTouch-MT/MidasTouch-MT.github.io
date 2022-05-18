@@ -9,7 +9,6 @@
 [![MIT License][license-shield]][license-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -19,8 +18,7 @@
 
 <h3 align="center">Midas Touch - GitDoc</h3>
 
-  <p align="center">
-    Midas Touch - GitDoc is an open-source documentation website hosted on GitHub Pages or potentially [gitdoc.org](https://midastouch-mt.github.io). 
+  Midas Touch - GitDoc is an open-source documentation website hosted on GitHub Pages or potentially [gitdoc.org](https://www.gitdoc.org). 
     It's distributed under the MIT license in `/License.txt`. 
     We pride ourrselves for a FOSS intiative by only using open-sourced libraries or code.
     <br />
@@ -63,7 +61,6 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
 
 
 <!-- ABOUT THE PROJECT -->
