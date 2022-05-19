@@ -211,7 +211,7 @@ nav>ul {
         display: block;
     }
     >a {
-        color: #000;
+        color: #fff;
         text-decoration: none;
         font-size: 1.4rem;
         padding: $space / 2 0 $space / 2 $space * 2;
@@ -359,7 +359,7 @@ h4 svg {
     font-weight: bold;
     &.major {
         background: $brand-colour;
-        color: #ffffff;
+        color: #fff;
     }
 }
 

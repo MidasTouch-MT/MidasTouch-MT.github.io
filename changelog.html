@@ -1,16 +1,14 @@
----
-title: Change Log
----
+--- title: Change Log ---
 
-<p>Subscribe with <a href="{{ site.baseurl }}/feed.xml">RSS</a> to keep up with the latest changes.</p>
+<p>The latest changes will be documented here, or in the releases tag on <a href="https://github.com/MidasTouch-MT/MidasTouch-MT.github.io">GitHub</a>.</p>
 
 <div class="changelog">
-	{% for change in site.posts %}
-		<div class="changelog-item">
-			<h3>{{ change.title }}</h3>
-			<p><span class="date">{{ change.date | date: "%B %d, %Y" }}</span> <span class="badge {{ change.type }}">{{ change.type }}</span></p>
+    {% for change in site.posts %}
+    <div class="changelog-item">
+        <h3>{{ change.title }}</h3>
+        <p><span class="date">{{ change.date | date: "%B %d, %Y" }}</span> <span class="badge {{ change.type }}">{{ change.type }}</span></p>
 
-			{{ change.content }}
-		</div>
-	{% endfor %}
+        {{ change.content }}
+    </div>
+    {% endfor %}
 </div>

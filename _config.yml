@@ -70,7 +70,6 @@ defaults:
         type: Marks the impact of this release
 
 # -----------
-# CloudCannon
 
 types:
   - minor
