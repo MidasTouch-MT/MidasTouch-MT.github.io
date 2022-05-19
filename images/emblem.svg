@@ -2,9 +2,9 @@
 <svg
    id="svg"
    version="1.1"
-   width="400"
-   height="431.358024691358"
-   viewBox="0, 0, 400,431.358024691358"
+   width="24"
+   height="24"
+   viewBox="0 0 24 23.999999"
    sodipodi:docname="emblem.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -22,15 +22,16 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      showgrid="false"
-     inkscape:zoom="1.0107613"
-     inkscape:cx="488.24585"
-     inkscape:cy="240.90752"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="-106.34223"
+     inkscape:cy="121.81019"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg" />
+     inkscape:current-layer="svg"
+     width="24px" />
   <g
      id="svgg"
      transform="scale(0.06,0.05563824)">
