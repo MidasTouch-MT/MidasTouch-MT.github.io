@@ -187,7 +187,6 @@ header {
 nav,
 header>form {
     display: none;
-    color: #000;
     @media (min-width: $mobile-break) {
         display: block;
     }
