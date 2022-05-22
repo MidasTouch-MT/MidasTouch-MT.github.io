@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
   <a href="https://github.com/MidasTouch-MT/MidasTouch-MT.github.io">
-    <img src="/touchicon.png" alt="Logo" width="80" height="80">
+    <img src="/touch-icon.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3>Midas Touch - GitDoc</h3>
