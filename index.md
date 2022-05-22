@@ -46,4 +46,5 @@ Midas Touch - GitDoc does not use any analytics, and pledges to protect your pri
 ## Credits
 * Midas Touch - GitDoc is published under the MIT License in `License.txt`, the `README.MD` is published under a different copyright, but still under the MIT License
 * Midas Touch - GitDoc uses the [CloudCannon/edition-jekyll-template](https://github.com/CloudCannon/edition-jekyll-template) which is distributed under the MIT License in  `LICENSE.txt`
-* Midas Touch - GitDoc also uses the [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) which is distributed under the MIT License in `LICENSE.txt` 
+* Midas Touch - GitDoc also uses the [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) which is distributed under the MIT License in `/README-LICENSE.txt`
+* `/images/favicon.png`, `/images/emblem.svg`, `/siteicon.png`, `touch-icon.png`, and `/apple-touch-icon.png` licensed in `/images/MidasTouch_Logo_License.md`.
