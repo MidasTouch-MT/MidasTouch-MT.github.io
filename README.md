@@ -250,7 +250,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 `README.md` is also published under the MIT license, however under a different copyright in `/README-LICENSE.txt`.
-`/images/favicon.png`, `/images/emblem.svg`, `/siteicon.png`, `touch-icon.png`, and `/apple-touch-icon.png` licensed in `/images/MidasTouch_Logo_License.md`.
+`/apple-touch-icon.png`, `/images/favicon.png`, `/siteicon.png`, `/images/emblem.svg`, `/images/_screenshot.png`, and `touch-icon.png` are licensed in `/images/MidasTouch_Logo_License.md`.
 
 
 
