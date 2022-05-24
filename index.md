@@ -5,7 +5,7 @@ title: Welcome
 MidasTouch - GitDoc is an open-source documentation website hosted on GitHub Pages and potentially GitDoc. It's distributed under the MIT license in `/License.txt`. We pride ourrselves for a FOSS intiative by only using open-sourced libraries or code.
 
 ## Documentation
-Our documentation is available at [midastouch-mt.github.io](https://midas-touch.github.io) or potentially [gitdoc.org](https://www.gitdoc.org). The latest changes are documented in the [Commit History](https://github.com/MidasTouch-MT/MidasTouch-MT.github.io/commit), and the [Changelog](https://midastouch-mt.github.io/changelog) documents the major/minor release tags.
+Our documentation is available at [midastouch-mt.github.io](https://midastouch-mt.github.io) or potentially [gitdoc.org](https://www.gitdoc.org). The latest changes are documented in the [Commit History](https://github.com/MidasTouch-MT/MidasTouch-MT.github.io/commit), and the [Changelog](https://midastouch-mt.github.io/changelog) documents the major/minor release tags.
 
 ### Formats
 Formats the documentation is currently available in: <br>
