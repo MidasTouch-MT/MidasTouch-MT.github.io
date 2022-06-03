@@ -6,7 +6,17 @@ Unless otherwise noted/licensed: `/apple-touch-icon.png`, `/images/favicon.png`,
 
 
 ---
+
 Made in Inkscape: https://inkscape.org/about/license <br>
 Crown from Pixabay: https://pixabay.com/vectors/crown-golden-royal-shining-shiny-312734 <br>
 Font Segoe Print: https://docs.microsoft.com/en-us/typography/font-list/segoe-print <br>
 MetaData cleaned with ExifCleaner: https://github.com/szTheory/exifcleaner <br>
+
+---
+
+`MidasTouch_Logo_License.md` is licensed under the `GNU All-Permissive License`:
+
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.  This file is offered as-is,
+without any warranty.
